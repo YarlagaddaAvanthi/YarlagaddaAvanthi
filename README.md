@@ -25,6 +25,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftexcel.svg" alt="excel" width="50" height="50"/>
-  </a>
+  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"
+       alt="excel" width="40" height="40"/> </a>
 </p>
