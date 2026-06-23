@@ -4,7 +4,7 @@
 <p align= "center">I am eager to work in a challenging environment where I can apply my technical and communication skills, contribute to organizational growth, and continuously enhance my expertise in emerging technologies.
 </p>
 
-- 🌱 I’m currently learning **Full Stack Technologies**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👯 I’m looking to collaborate on **gitHub**
 
