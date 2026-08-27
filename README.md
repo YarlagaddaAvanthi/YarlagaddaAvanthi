@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm YARLAGADDA AVANTHI</h2>
-<p align="center">I'm currently pursuing M.Tech CSE with specialization Artificial Intelligence(AI) and Data Science(DS) at KL University.I am skilled in Python,core Java,SDLC,Database Management Systems,MY SQL,Agile,Excel.<?p>
+<p align="center">I'm currently pursuing M.Tech CSE at KL University.I am skilled in Python,core Java,SDLC,Database Management Systems,MY SQL,Agile,Excel, Power BI.<?p>
   
 <p align= "center">I am eager to work in a challenging environment where I can apply my technical and communication skills, contribute to organizational growth, and continuously enhance my expertise in emerging technologies.
 </p>
